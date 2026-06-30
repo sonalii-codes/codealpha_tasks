@@ -1,4 +1,6 @@
 # A simple Chatbot 
+#task 2
+
 def chatbot():
 # Welcome message 
     print("Chatbot: Hello!")
@@ -14,6 +16,7 @@ def chatbot():
             break
 # If input doesn't match with predefined response
         else:
+            
             print("Chatbot: Sorry! I can't understand")
 #Call the function to start the chatbot
 chatbot()                   
